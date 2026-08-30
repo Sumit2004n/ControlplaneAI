@@ -1,0 +1,9 @@
+{
+  "/simulator/page": "app/simulator/page.js",
+  "/knowledge-base/page": "app/knowledge-base/page.js",
+  "/audit-logs/page": "app/audit-logs/page.js",
+  "/analytics/page": "app/analytics/page.js",
+  "/analyzer/page": "app/analyzer/page.js",
+  "/live-monitor/page": "app/live-monitor/page.js",
+  "/page": "app/page.js"
+}
