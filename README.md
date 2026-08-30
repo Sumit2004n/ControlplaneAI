@@ -2,7 +2,7 @@
 
 **Accenture Innovation Challenge 2026 · Round 2 Prototype · Track 1**
 
-**PDF / submission copy:** [docs/SUBMISSION_README.md](docs/SUBMISSION_README.md) — use this file if you need to export a README PDF for the challenge portal.
+**PDF / submission copy:** [docs/SUBMISSION_README.md](docs/SUBMISSION_README.md) — 
 
 **Business proposal PDF:** [docs/BUSINESS_PROPOSAL.md](docs/BUSINESS_PROPOSAL.md) / [docs/ControlPlane_AI_Business_Proposal.pdf](docs/ControlPlane_AI_Business_Proposal.pdf)
 
